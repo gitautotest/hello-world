@@ -1,1 +1,2 @@
 This is File A.
+It was edited by gitautotest
