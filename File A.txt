@@ -3,3 +3,4 @@ It was edited by gitautotest
 Conflicting line
 Another line was added by jahrodillas
 ....
+This line was added to create conflict
