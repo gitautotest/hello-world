@@ -3,4 +3,4 @@ It was edited by gitautotest
 Conflicting line
 Another line was added by jahrodillas
 ....
-I've modified this line
+I've modified this line"
