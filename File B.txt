@@ -1,2 +1,2 @@
 This is file b
-\line 2
+\line 2c
